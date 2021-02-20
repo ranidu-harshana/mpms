@@ -1,4 +1,4 @@
-# mpms
+# Man Power Management System
 
 username - ranidu
 password - ranidu1234
