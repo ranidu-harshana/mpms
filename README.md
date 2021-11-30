@@ -13,6 +13,12 @@ If the time is AM system shows yesterday working details and if the time is PM i
 Salary Payments:
 System pays salary only for workers who are registered in the system on the specific date. Salary will not pay who are already paied. 
 
+How to intall pip:
+
+>> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+>> python get-pip.py
+
 Install pillow before running the program. 
 
-(pip install pillow)
+>> pip install pillow
