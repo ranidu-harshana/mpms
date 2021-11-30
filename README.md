@@ -14,4 +14,5 @@ Salary Payments:
 System pays salary only for workers who are registered in the system on the specific date. Salary will not pay who are already paied. 
 
 Install pillow before running the program. 
+
 (pip install pillow)
