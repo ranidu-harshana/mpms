@@ -1,6 +1,6 @@
 # Man Power Management System
 
-username - ranidu
+username - ranidu\n
 password - ranidu1234
 
 Enrolling Workers:
